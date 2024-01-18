@@ -17,7 +17,6 @@
 <a href="https://www.w3schools.com/sql/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrq1sdnsoGOd8El8eQ09LA3hJWtiCrPP-S4_l6hCqlhb_tjOoRxKqoF_AG10Zy-TwTfWc&usqp=CAU" alt="sql" alt="sql" width="40" height="40"></a>&nbsp;&nbsp;
 <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_content=rlsavisitor&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_retarget-brand_gic-null_apac-all_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=14412646476&adgroup=131761130812&cq_cmp=14412646476&gad_source=1&gclid=Cj0KCQiAtaOtBhCwARIsAN_x-3IWY7kWla_KBYQtxLmu6NOHQE4JhRNqH0fz7OM5aN8gYQuyY0EovfUaAgppEALw_wcB"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongodb" alt="React" width="40" height="40"></a>
 </p>
-    <script src="./script.js"></script>
 </body>
 
 </html>
