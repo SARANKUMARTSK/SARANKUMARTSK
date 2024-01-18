@@ -1,13 +1,12 @@
-
 <body>
     <h1 style='text-align:center'>Hi 👋, I'm SARAN</h1>
     <hr>
     <h3 style='text-align:center; text-shadow: 1px 1px 1px wheat;'> I am a <span style="color:blue;">F</span style="color:blue;" >ull <span style="color:blue;">S</span style="color:blue;">tack <span style="color:blue;">W</span>eb <span style="color:blue;">D</span>eveloper</h3>
 <h3 style='text-align:center'>Connect with me:</h3>
 <p style='text-align:center'>
-<a href="https://www.linkedin.com/in/saran-kumar-17563a250/" target="blank"><img style='text-align:center'; src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saran kumar" height="30" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/saran-kumar-17563a250/" target="blank"><img style='text-align:center'=center; src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saran kumar" height="30" width="40" /></a>&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100009111732920" target="blank"><img style='text-align:center'; src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saran kumar" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/_charan_tsk_/"><i class="fa-brands fa-instagram" style="font-size: 35px; color:darkmagenta;"></i></a>
+<a href="https://www.instagram.com/_charan_tsk_/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjn3qINGu93EdvTw2hP8HvmOYWM-lVvQNq2A&usqp=CAU"  alt="saran kumar" height="30" width="40"></img></a>
 
 </p>
 
@@ -18,5 +17,3 @@
 <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_content=rlsavisitor&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_retarget-brand_gic-null_apac-all_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=14412646476&adgroup=131761130812&cq_cmp=14412646476&gad_source=1&gclid=Cj0KCQiAtaOtBhCwARIsAN_x-3IWY7kWla_KBYQtxLmu6NOHQE4JhRNqH0fz7OM5aN8gYQuyY0EovfUaAgppEALw_wcB"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongodb" alt="React" width="40" height="40"></a>
 </p>
 </body>
-
-</html>
