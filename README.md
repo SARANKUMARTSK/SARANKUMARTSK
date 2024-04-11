@@ -1,19 +1,68 @@
 <body>
-    <h1 style='text-align:center'>Hi 👋, I'm SARAN</h1>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <style>
+        .line-1 {
+            /* position: relative; */
+            /* top: 50%;   */
+            /* width: 24em; */
+            margin: 0 auto;
+            /* border-right: 2px solid rgba(255,255,255,.75); */
+            /* font-size: 180%; */
+            font-size: medium;
+            text-align: center;
+            white-space: nowrap;
+            overflow: hidden;
+            /* transform: translateY(-50%);     */
+        }
+
+        /* Animation */
+        .anim-typewriter {
+            animation: typewriter 3s steps(44) 1s 1 normal both,
+                       blinkTextCursor 800ms steps(44) infinite normal;
+        }
+
+        @keyframes typewriter {
+            from { width: 0; }
+            to { width: 24em; }
+        }
+
+        @keyframes blinkTextCursor {
+            from { border-right-color: rgba(255,255,255,.75); }
+            to { border-right-color: transparent; }
+        }
+    </style>
+    <h1 style='text-align:center'>Hi 👋, I am Saran</h1>
+    <p id="typing-text" class="line-1 anim-typewriter" style="font-weight: 800;">I am a Full Stack Developer</p>
     <hr>
-    <h3 style='text-align:center; text-shadow: 1px 1px 1px wheat;'> I am a <span style="color:blue;">F</span style="color:blue;" >ull <span style="color:blue;">S</span style="color:blue;">tack <span style="color:blue;">W</span>eb <span style="color:blue;">D</span>eveloper</h3>
-<h3 style='text-align:center'>Connect with me:</h3>
-<p style='text-align:center'>
-<a href="https://www.linkedin.com/in/saran-kumar-17563a250/" target="blank"><img style='text-align:center'=center; src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saran kumar" height="30" width="40" /></a>&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100009111732920" target="blank"><img style='text-align:center'; src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saran kumar" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/_charan_tsk_/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjn3qINGu93EdvTw2hP8HvmOYWM-lVvQNq2A&usqp=CAU"  alt="saran kumar" height="30" width="40"></img></a>
+    
+    <h2 style="text-align: center; color: gray;">My Technical Skills</h2>
+    <div style="display: flex; flex-wrap: wrap;  justify-content: center; align-items: center;">
+        <img src="https://www.varianceinfotech.com/assets/front/images/hire-mern-stack-developers/og-image.jpg" style="margin: 20px;" height="250px"  alt="">
+        <div style="display: flex; justify-content: space-evenly; width: 400px; flex-wrap: wrap; gap: 20px;">
+            <button style="padding: 8px; border-radius: 8px; width: 120px; color: white; font-weight: 900; background-color: hsl(244,69%,61%); border: none; box-shadow: 0px 0px 2px hsl(244,69%,61%);">HTML&nbsp;<i class="fa-brands fa-html5"></i></button>
+            <button style="padding: 8px; border-radius: 8px; width: 120px; color: white; font-weight: 900; background-color: hsl(244,69%,61%); border: none; box-shadow: 0px 0px 2px hsl(244,69%,61%);">CSS&nbsp; <i class="fa-brands fa-css3-alt"></i></button>
+            <button style="padding: 8px; border-radius: 8px; width: 120px; color: white; font-weight: 900; background-color: hsl(244,69%,61%); border: none; box-shadow: 0px 0px 2px hsl(244,69%,61%);">JavaScript&nbsp; <i class="fa-brands fa-square-js"></i></button>
+            <button style="padding: 8px; border-radius: 8px; width: 120px; color: white; font-weight: 900; background-color: hsl(244,69%,61%); border: none; box-shadow: 0px 0px 2px hsl(244,69%,61%);">React Js&nbsp;<i class="fa-brands fa-react"></i> </button>
+            <button style="padding: 8px; border-radius: 8px; width: 120px; color: white; font-weight: 900; background-color: hsl(244,69%,61%); border: none; box-shadow: 0px 0px 2px hsl(244,69%,61%);">Bootstrap&nbsp; <i class="fa-brands fa-bootstrap"></i></button>
+            <button style="padding: 8px; border-radius: 8px; width: 120px; color: white; font-weight: 900; background-color: hsl(244,69%,61%); border: none; box-shadow: 0px 0px 2px hsl(244,69%,61%);">Node Js&nbsp;<i class="fa-brands fa-node"></i> </button>
+            <button style="padding: 8px; border-radius: 8px; width: 120px; color: white; font-weight: 900; background-color: hsl(244,69%,61%); border: none; box-shadow: 0px 0px 2px hsl(244,69%,61%);">Express Js&nbsp;<i class="fa-brands fa-node-js"></i> </button>
+            <button style="padding: 8px; border-radius: 8px; width: 120px; color: white; font-weight: 900; background-color: hsl(244,69%,61%); border: none; box-shadow: 0px 0px 2px hsl(244,69%,61%);">MongoDB&nbsp;<i class="fa-solid fa-database"></i> </button>
+            <button style="padding: 8px; border-radius: 8px; width: 120px; color: white; font-weight: 900; background-color: hsl(244,69%,61%); border: none; box-shadow: 0px 0px 2px hsl(244,69%,61%);">MySQL&nbsp; <i class="fa-solid fa-database"></i></button>
+            <button style="padding: 8px; border-radius: 8px; width: 120px; color: white; font-weight: 900; background-color: hsl(244,69%,61%); border: none; box-shadow: 0px 0px 2px hsl(244,69%,61%);">Postman&nbsp; <i class="fa-solid fa-rocket"></i></button>
+        </div>
+    </div>
+<br>
+    <h2 style="text-align: center; color: gray; font-weight: 900;">Find Me <i class="fa-solid fa-arrow-turn-down"></i></h2>
+    <div  style="display: flex; justify-content: center; align-items: center;">
+        <a style="text-decoration: none; color: hsl(244,69%,61%);" href="in/saran-kumar-17563a250"> <i style="font-size: 35px; margin: 20px; " class="fa-brands fa-linkedin"></i></a>
+        <a style="text-decoration: none; color: hsl(244,69%,61%);" href="profile.php?id=100009111732920"><i style="font-size: 35px; margin: 20px; " class="fa-brands fa-square-facebook"></i></a>
+        <a style="text-decoration: none; color: hsl(244,69%,61%);" href="https://www.instagram.com/_charan_tsk_/?next=%2F"><i style="font-size: 35px; margin: 20px; " class="fa-brands fa-instagram"></i></a>
+        <a style="text-decoration: none; color: hsl(244,69%,61%);" href="mailto:sarankumartsk@gmail.com"><i style="font-size: 35px; margin: 20px; " class="fa-solid fa-envelope"></i></a>
+        
+    </div>
+    
+    <a href="https://graceful-platypus-881e60.netlify.app/"><p style="text-align: center; color: gray; font-size: 25px; font-weight: 900;">Portfolio <a href=""></a></p></a>
+    
 
-</p>
-
-<h3 style='text-align:center'>Languages and Tools:</h3>
-<p style='text-align:center'> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp; </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp; 
-<a href="https://react.dev/learn" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/sql/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrq1sdnsoGOd8El8eQ09LA3hJWtiCrPP-S4_l6hCqlhb_tjOoRxKqoF_AG10Zy-TwTfWc&usqp=CAU" alt="sql" alt="sql" width="40" height="40"></a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_content=rlsavisitor&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_retarget-brand_gic-null_apac-all_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=14412646476&adgroup=131761130812&cq_cmp=14412646476&gad_source=1&gclid=Cj0KCQiAtaOtBhCwARIsAN_x-3IWY7kWla_KBYQtxLmu6NOHQE4JhRNqH0fz7OM5aN8gYQuyY0EovfUaAgppEALw_wcB"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongodb" alt="React" width="40" height="40"></a>
-</p>
 </body>
